@@ -1,0 +1,47 @@
+/* Finex Development preview tokens.
+   Brand colours sampled from the Finex seal logo (finexdevelopment.com, 4167px PNG):
+   coral #E07880 (outer crescent), hot coral #F87880, blush #F8D8D8, navy #4F588B (inner arc, dark end),
+   sky #B6D9F3 (inner arc, light end). Ink + paper are neutral partners tinted toward the navy. */
+@import './fonts.css';
+
+:root {
+  --fx-coral: #E07880;
+  --fx-coral-hot: #F87880;
+  --fx-blush: #F8D8D8;
+  --fx-navy: #4F588B;
+  --fx-navy-deep: #2A3058;
+  --fx-sky: #B6D9F3;
+  --fx-ink: #15182A;
+  --fx-ink-2: #23273D;
+  --fx-mute: #565B70;
+  --fx-mute-on-dark: #A9ADC2;
+  --fx-line: #E3E1E4;
+  --fx-line-dark: #30354F;
+  --fx-paper: #F7F5F4;
+  --fx-white: #FFFFFF;
+  --fx-coral-text: #B4404D; /* coral darkened for AA text on paper/white */
+
+  --fx-font-display: 'General Sans', 'General Sans Fallback', 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --fx-font-text: 'Inter', 'Inter Fallback', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --fx-text-body: clamp(1rem, 0.97rem + 0.12vw, 1.0625rem);
+  --fx-text-lead: clamp(1.125rem, 1.02rem + 0.45vw, 1.4rem);
+  --fx-text-h4: clamp(1.15rem, 1.05rem + 0.45vw, 1.45rem);
+  --fx-text-h3: clamp(1.4rem, 1.15rem + 1.05vw, 2.1rem);
+  --fx-text-h2: clamp(1.85rem, 1.3rem + 2.25vw, 3.25rem);
+  --fx-text-h1: clamp(2.4rem, 1.45rem + 3.6vw, 5rem);
+  --fx-text-l: clamp(2.6rem, 1.5rem + 4.6vw, 6.25rem);
+
+  --fx-gutter: clamp(1.25rem, 0.8rem + 1.9vw, 2.5rem);
+  --fx-section: clamp(5rem, 3rem + 8vw, 11rem);
+  --fx-section-tight: clamp(3.5rem, 2.4rem + 4.5vw, 7rem);
+  --fx-header-h: 72px;
+  --mk-header-h: var(--fx-header-h);
+  --mk-accent: var(--fx-coral);
+  --mk-line: var(--fx-line);
+  --fx-ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --fx-ease-io: cubic-bezier(0.65, 0, 0.35, 1);
+}
+@media (max-width: 767px) {
+  :root { --fx-header-h: 62px; }
+}

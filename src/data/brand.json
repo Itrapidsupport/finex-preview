@@ -1,0 +1,56 @@
+[
+ {
+  "label": "Logo, full colour",
+  "file": "brand/download/finex-logo.svg",
+  "png": "brand/download/finex-logo-12288w.png",
+  "pngMB": 7.7,
+  "bg": "white",
+  "preview": "brand/download/finex-logo.svg",
+  "note": "For light backgrounds."
+ },
+ {
+  "label": "Logo, on dark",
+  "file": "brand/download/finex-logo-white.svg",
+  "png": "brand/download/finex-logo-white-12288w.png",
+  "pngMB": 7.4,
+  "bg": "ink",
+  "preview": "brand/download/finex-logo-white.svg",
+  "note": "Full colour, white lettering."
+ },
+ {
+  "label": "Logo, one colour dark",
+  "file": "brand/download/finex-logo-mono-dark.svg",
+  "png": "brand/download/finex-logo-mono-dark-12288w.png",
+  "pngMB": 2.5,
+  "bg": "white",
+  "preview": "brand/download/finex-logo-mono-dark.svg",
+  "note": "Single colour for print and stamps."
+ },
+ {
+  "label": "Logo, one colour white",
+  "file": "brand/download/finex-logo-white-mono.svg",
+  "png": "brand/download/finex-logo-white-mono-12288w.png",
+  "pngMB": 2.1,
+  "bg": "ink",
+  "preview": "brand/download/finex-logo-white-mono.svg",
+  "note": "Single colour reversed."
+ },
+ {
+  "label": "Crescent mark",
+  "file": "brand/download/finex-mark.svg",
+  "png": "brand/download/finex-mark-12288w.png",
+  "pngMB": 8.3,
+  "bg": "white",
+  "preview": "brand/download/finex-mark.svg",
+  "note": "Symbol only, for icons and small sizes."
+ },
+ {
+  "label": "Crescent mark, white",
+  "file": "brand/download/finex-mark-white-mono.svg",
+  "png": "brand/download/finex-mark-white-mono-12288w.png",
+  "pngMB": 1.2,
+  "bg": "ink",
+  "preview": "brand/download/finex-mark-white-mono.svg",
+  "note": "Symbol only, reversed."
+ }
+]

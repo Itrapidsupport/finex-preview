@@ -1,0 +1,22 @@
+{
+ "jumpstart": {
+  "file": "sponsor-jumpstart.svg",
+  "w": 765,
+  "h": 300
+ },
+ "st-matthew": {
+  "file": "sponsor-st-matthew.svg",
+  "w": 531,
+  "h": 300
+ },
+ "legion": {
+  "file": "sponsor-legion.svg",
+  "w": 192,
+  "h": 300
+ },
+ "hospital-activity-book": {
+  "file": "sponsor-hospital-activity-book.svg",
+  "w": 834,
+  "h": 300
+ }
+}

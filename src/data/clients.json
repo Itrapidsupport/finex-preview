@@ -1,0 +1,62 @@
+[
+ {
+  "file": "client-jack-and-jones.webp",
+  "w": 500,
+  "h": 44,
+  "name": "Jack & Jones"
+ },
+ {
+  "file": "client-moores-clothing-for-men.webp",
+  "w": 300,
+  "h": 101,
+  "name": "Moores"
+ },
+ {
+  "file": "client-calvin-klein.webp",
+  "w": 600,
+  "h": 97,
+  "name": "Calvin Klein"
+ },
+ {
+  "file": "client-canadian-tire.webp",
+  "w": 273,
+  "h": 240,
+  "name": "Canadian Tire"
+ },
+ {
+  "file": "client-van-heusen.webp",
+  "w": 326,
+  "h": 240,
+  "name": "Van Heusen"
+ },
+ {
+  "file": "client-partsource-commercial.webp",
+  "w": 475,
+  "h": 130,
+  "name": "PartSource"
+ },
+ {
+  "file": "client-marks.webp",
+  "w": 600,
+  "h": 119,
+  "name": "Mark’s Work Wearhouse"
+ },
+ {
+  "file": "client-national-sports.webp",
+  "w": 234,
+  "h": 100,
+  "name": "National Sports"
+ },
+ {
+  "file": "client-sport-chek.webp",
+  "w": 600,
+  "h": 175,
+  "name": "Sport Chek"
+ },
+ {
+  "file": "client-tommy-hilfiger.webp",
+  "w": 331,
+  "h": 221,
+  "name": "Tommy Hilfiger"
+ }
+]
